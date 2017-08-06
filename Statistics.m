@@ -1,5 +1,5 @@
 
-im = imread( 'pic8.jpg' );
+im = imread( 'y4_3.jpg' );
 hsv = rgb2hsv( im );
 H = hsv( :,:,1);
 S = hsv( :,:,2);
